@@ -1,4 +1,4 @@
-name: Validate FEI XMD
+name: Validate Proza XMD
 
 on:
   push:
